@@ -28,7 +28,7 @@ The following is only needed if you want to use `firebase/admin` (not part of th
 
 ### Notes
 
-- You can use `api/test.ts` to stringify your private key so you can use in in the environment
+- You can use `api/test.ts` to stringify your private key so you can use it in the environment
 - You need to define the same `FIREBASE_ADMIN_SDK` environment variable in Vercel
 
 **Created by [⬡ Enesien Software](https://enesien.com)**
